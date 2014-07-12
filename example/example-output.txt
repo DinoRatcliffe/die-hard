@@ -1,0 +1,46 @@
+
+Next Problem:
+Capacities	   8 5 3
+Initial Contents   8 0 0
+Goal Contnents	   4 4 0
+Solution requires 7 moves
+start from 8 0 0
+pour from 0 to 1 to give 3 5 0
+pour from 1 to 2 to give 3 2 3
+pour from 2 to 0 to give 6 2 0
+pour from 1 to 2 to give 6 0 2
+pour from 0 to 1 to give 1 5 2
+pour from 1 to 2 to give 1 4 3
+pour from 2 to 0 to give 4 4 0
+Number of nodes expanded: 15
+Number of unexpanded nodes: 1
+
+Next Problem:
+Capacities	   7 15 20
+Initial Contents   0 0 20
+Goal Contnents	   0 10 10
+Solution requires 15 moves
+start from 0 0 20
+pour from 2 to 1 to give 0 15 5
+pour from 1 to 0 to give 7 8 5
+pour from 0 to 2 to give 0 8 12
+pour from 1 to 0 to give 7 1 12
+pour from 0 to 2 to give 0 1 19
+pour from 1 to 0 to give 1 0 19
+pour from 2 to 1 to give 1 15 4
+pour from 1 to 0 to give 7 9 4
+pour from 0 to 2 to give 0 9 11
+pour from 1 to 0 to give 7 2 11
+pour from 0 to 2 to give 0 2 18
+pour from 1 to 0 to give 2 0 18
+pour from 2 to 1 to give 2 15 3
+pour from 1 to 0 to give 7 10 3
+pour from 0 to 2 to give 0 10 10
+Number of nodes expanded: 39
+Number of unexpanded nodes: 1
+
+Next Problem:
+Capacities	   8 5 3
+Initial Contents   8 0 0
+Goal Contnents	   4 2 2
+No solution was found
